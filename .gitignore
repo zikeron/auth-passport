@@ -12,6 +12,7 @@
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+.idea/
 
 # Generated files
 .idea/**/contentModel.xml
@@ -613,3 +614,4 @@ MigrationBackup/
 # End of https://www.gitignore.io/api/node,linux,macos,windows,netbeans,jetbrains,visualstudio
 
 ./jwt-utilities/node_modules/
+./handle-session/node_modules/
