@@ -615,3 +615,5 @@ MigrationBackup/
 
 ./jwt-utilities/node_modules/
 ./handle-session/node_modules/
+./movies-api/node_modules/
+./ssr-server/node_modules/
